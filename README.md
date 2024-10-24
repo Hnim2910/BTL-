@@ -2,7 +2,7 @@
 
 Giới thiệu dự án: Xây dựng hệ thống quản lý rạp chiếu phim đơn giản
 
-Phân tích yêu cầu: Quản lý phim, rạp, lịch chiếu, phòng chiếu, thông tin phim chiếu và vé phim
+Phân tích yêu cầu: Quản lý phim, rạp, lịch chiếu, phòng chiếu, nhân viên, thông tin phim chiếu và vé phim
 
 Thiết kế hệ thống: Bao gồm sơ đồ lớp (class diagram) và mô tả chi tiết các lớp trong dự án:
 
