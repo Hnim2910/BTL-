@@ -1,6 +1,6 @@
 # BTL OOP Nhóm 9 - E22CQCN02-B
 
-Giới thiệu dự án: Xây dựng hệ thống quản lý rạp chiếu phim đơn giản
+Giới thiệu dự án BTL: Xây dựng hệ thống quản lý rạp chiếu phim đơn giản
 
 Phân tích yêu cầu: Quản lý phim, rạp, lịch chiếu, phòng chiếu, nhân viên, thông tin phim chiếu và vé phim
 
