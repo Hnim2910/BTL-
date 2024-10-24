@@ -6,7 +6,9 @@ Phân tích yêu cầu: Quản lý phim, rạp, lịch chiếu, phòng chiếu, 
 
 Thiết kế hệ thống: Bao gồm sơ đồ lớp (class diagram) và mô tả chi tiết các lớp trong dự án:
 
-QuanLy: Lớp này có thể là lớp quản lý chung, điều phối các thực thể trong hệ thống.
+VD:
+
+QuanLy: Lớp quản lý chung, điều phối các thực thể trong hệ thống.
 
 QuanLyPhim: Chịu trách nhiệm quản lý danh sách phim, bao gồm thêm, sửa, xóa phim.
 
