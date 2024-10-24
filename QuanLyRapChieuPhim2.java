@@ -21,11 +21,6 @@ public class QuanLyRapChieuPhim2 {
      */
     public static void main(String[] args) throws SQLServerException, SQLException, UnsupportedEncodingException {
         Scanner sc = new Scanner(System.in);
-        var Server = "ANPHATPC\\MSSQLSERVER1";
-        var password = "123";
-        var user = "kiet";
-        var db = "webapp";
-        var port = 1433;
         SQLServerDataSource src = new SQLServerDataSource();
         src.setUser(user);
         src.setPassword(password);
