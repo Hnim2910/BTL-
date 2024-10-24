@@ -24,7 +24,7 @@ Quản lý lịch chiếu: Đặt lịch cho các bộ phim và cập nhật th�
 
 Quản lý thông tin vé: Tên phim, tình trạng mở bán, số vé, số vé chưa bán, giá vé (VND), tình trạng vé tại quầy và online. 
 
-Quản lý phòng chiếu: Số phòng, tình trạng
+Quản lý phòng chiếu: Số phòng, tình trạng phòng
 
 Quản lý nhân viên: Tên, chức vụ, mô tả nhiệm vụ, thời gian làm việc 
 
