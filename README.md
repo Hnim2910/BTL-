@@ -27,5 +27,7 @@ Quản lý thông tin vé: Tên phim, tình trạng mở bán, số vé, số v�
 Quản lý phòng chiếu: Số phòng, tình trạng phòng
 
 Quản lý nhân viên: Tên, chức vụ, mô tả nhiệm vụ, thời gian làm việc 
+![image](https://github.com/user-attachments/assets/3ee1012f-4c65-4c68-b432-9c768e28066b)
+
 
 
